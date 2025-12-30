@@ -27,7 +27,7 @@
 
 ## 👤 About Me
 
-I operate professionally under the **Western name _Jamie Voss_**, which is used for receiving international payments from AI and technology platforms such as **Handshake AI**.
+I operate professionally under the **Western name _Jamie Voss_**, which is used for receiving international payments from AI and technology platforms.
 
 I am a **software engineer and AI contributor** with experience building and maintaining web applications, APIs, and data-driven systems.  
 All work published here is owned and maintained by **Joan Chelangat**, the legal and beneficial owner of this account.
